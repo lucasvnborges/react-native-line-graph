@@ -8,23 +8,6 @@
   <b>Beautiful, high-performance Graphs/Charts for React Native.</b>
 </div>
 
-* 🏎️ Faster and smoother than react-native-svg graphs
-* ⚡️ Native path interpolation in Skia
-* 🐎 Up to 120 FPS animations
-* 📈 Cubic bezier rendering for smoother edges
-* 👍 Smooth pan/scrubbing gesture
-* 💰 Made for crypto apps and Wallets
-* ❌ Does not block navigation, press or scroll animations
-
-## Installation
-
-<pre>
-yarn add <a href="https://github.com/software-mansion/react-native-reanimated">react-native-reanimated</a>
-yarn add <a href="https://github.com/software-mansion/react-native-gesture-handler">react-native-gesture-handler</a>
-yarn add <a href="https://github.com/Shopify/react-native-skia">@shopify/react-native-skia</a>
-yarn add <b>react-native-graph</b>
-</pre>
-
 ## Usage
 
 ```jsx
